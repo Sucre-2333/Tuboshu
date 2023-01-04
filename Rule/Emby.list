@@ -34,4 +34,10 @@ DOMAIN-SUFFIX,jellyfin.xeton.dev
 DOMAIN-SUFFIX,movie.xeton.dev
 DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,203.198.94.90
+DOMAIN-SUFFIX,df.poloemby.xyz
+DOMAIN-SUFFIX,cu.poloemby.xyz
+DOMAIN-SUFFIX,happy.poloemby.xyz
+DOMAIN-SUFFIX,jp.pololine.ml
+DOMAIN-SUFFIX,cmi.pololine.ml
+DOMAIN-SUFFIX,sp.pololine.ml
 IP-CIDR,203.198.94.90/25,no-resolve
