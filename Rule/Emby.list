@@ -40,5 +40,4 @@ DOMAIN-SUFFIX,happy.poloemby.xyz
 DOMAIN-SUFFIX,jp.pololine.ml
 DOMAIN-SUFFIX,cmi.pololine.ml
 DOMAIN-SUFFIX,sp.pololine.ml
-DOMAIN-SUFFIX,10.10.10.177,DIREC
 IP-CIDR,203.198.94.90/25,no-resolve
