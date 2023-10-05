@@ -1,2 +1,2 @@
-IP-CIDR,10.10.10.177/32,no-resolve
-IP-CIDR,10.10.10.190/32,no-resolve
+IP-CIDR,10.10.10.177/24,no-resolve
+IP-CIDR,10.10.10.190/24,no-resolve
